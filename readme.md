@@ -23,5 +23,5 @@ $ git clone https://github.com/therohim/image-processing.git
  
  Run unit test resize and change dimensions images with command below
  ```bash
- go test -v -timeout 30s -run ^TestResizeImage$ Ubersnap-middle-backend-programmer-test/utils
+ go test -v -timeout 30s -run ^TestResizeImage$ (your-directory)-test/utils
  ```
